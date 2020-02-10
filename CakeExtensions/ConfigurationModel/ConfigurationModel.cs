@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel;
 
-namespace CakeExtentions
+namespace CakeExtensions
 {
     public enum Environment
     {

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CakeExtentions", "CakeExtentions\CakeExtentions.csproj", "{0D8FB0B3-5791-4F3B-972A-77C3F09A6C3B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CakeExtensions", "CakeExtensions\CakeExtensions.csproj", "{0D8FB0B3-5791-4F3B-972A-77C3F09A6C3B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
